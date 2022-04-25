@@ -33,8 +33,6 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
      <a href="https://www.w3schools.com/jquery/default.asp" target="_blank"> <img color="white" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> -->
-     <!-- <i> </i> -->
-
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
