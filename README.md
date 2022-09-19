@@ -1,19 +1,19 @@
 <!-- <p align="center"><a href="#"><img width="50%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/></a></p> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulkareem Mustopha</h1>
-<h3 align="center"> A Software Developer and a Civil Engineering student from Nigeria.</h3>
+<h3 align="center"> A Software Developer at Saritay.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently doing Frontend Development internship at **[SideHustle](https://lms.terrahq.co/)**
+- 👨‍💻 I’m currently learning Frontend Development internship at **[TIIDELab](https://tiidelab.com/)**
 
 - 🌱 I’m currently learning Backend Engineering at **[ AltSchool](https://www.thealtschool.com/)**
 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://aphaportfolio.netlify.app/)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://aphaportfolio.netlify.app/)** -->
 
 - 📫 How to reach me **aphatheology@gmail.com**
 
