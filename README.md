@@ -27,7 +27,7 @@
      <a href="https://www.w3schools.com/jquery/default.asp" target="_blank"> <img color="white" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> -->
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+     <img src="https://img.icons8.com/color/48/000000/express.png"/>
      <img src="https://img.icons8.com/color/48/000000/mongoose.png"/>
      <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
