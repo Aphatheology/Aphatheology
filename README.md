@@ -1,45 +1,43 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mustapha Abdulkareem</h1>
-<h3 align="center"> A Software Developer</h3>
+<h3 align="center">Backend Developer | Java/SpringBoot • Node/Express/NestJS</h3>
 
+## 🧑‍💻 About Me
 
-## About Me
+Experienced Backend Developer with a proven track record in developing scalable, secure, and efficient backend systems across industries like **Telemedicine, E-Learning, B2B, and Fintech**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+🔧 I work with technologies like:
+- **Java (Spring Boot)**
+- **Node.js (Express, NestJS)**
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools/Cloud:** Mediasoup, Socket.IO, AWS, Azure
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://aphaportfolio.netlify.app/)** -->
+### 🚀 Highlights
+- Built a **telemedicine backend** that integrates with medical hardware and supports video calls + real-time translation.
+- Developed a **secure job tracking system** that cut manual review time by 70%.
+- Helped redesign E-Learning platforms used by schools across Europe, improving usability and onboarding.
 
-- 📫 How to reach me **aphatheology@gmail.com**
+🎓 First-Class Bachelor’s Degree in Civil Engineering, bringing analytical thinking and detail-oriented execution to every line of code.
 
+- 💯 I’m open to collaborating on **Open Source Projects**
+- 📧 Reach me at **aphatheology@gmail.com**
 
 ## 🚀 Languages and Tools:
-
 <p align="left"> 
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-     <a href="https://www.w3schools.com/jquery/default.asp" target="_blank"> <img color="white" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> </a> -->
-     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-     <img src="https://img.icons8.com/color/48/000000/express.png"/>
-     <img src="https://img.icons8.com/color/48/000000/mongoose.png"/>
-     <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-     <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
-     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-
-
+     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" />
+     <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="Typescript" />
+     <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" />
+     <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Express.js" />
+     <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="Nest.js" />   
+</p>
+<p align="left"> 
+     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" />
+     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="SpringBoot" />    
+</p>
+<p align="left"> 
+     <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" />
+     <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Postgres" />
+     <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" />
+     <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" />    
 </p>
 
 <br/>
@@ -48,8 +46,6 @@
     <a href="https://github.com/aphatheology/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mustapha Abdulkareem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aphatheology&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-
-    
 </p>
 
 ## 📊 My Github Stats
@@ -60,7 +56,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -69,16 +64,10 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🌐 Connect with Me
 <p align="left">
-
-
-
 <a href = "https://www.linkedin.com/in/abdulkareem-mustapha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/mustbeta"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-
-
-
+<a href = "https://x.com/aphatheology"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## ❤ Views and Followers
